@@ -25,7 +25,7 @@ SECRET_KEY = 'r39e+-m14-nj1c@9j3st7tbygks$jhz)5a6l!&hfng+_x+*l$j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gauravsb.pythonanywhere']
 
 
 # Application definition
